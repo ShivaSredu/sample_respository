@@ -1,5 +1,5 @@
 function sample(){
-console.log("Hi Harika")
+console.log("Hi Venkatesh")
 }
 
 function sample3(){
